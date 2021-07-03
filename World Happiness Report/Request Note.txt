@@ -1,0 +1,10 @@
+			Data Trained Technical Team
+
+I Kushal Kumar Arya, Batch No - 1830, writting a request note to technical team regarding problem facing during making this project.
+
+1. During Evaluation preiod all my model show same score. I doubt on my self i done some thing 
+wrong .
+2. I used Power Transform to remove skewness. I want to know after apply power transform it is necessary to do Standrad Scaler because i observe both give same results.
+
+When you check my project and found any mistake kindly tell me in details  what should i have done wrong and what steps should i taken to avoid such mistake . And also give me suggestion
+to improve my knowledge.
